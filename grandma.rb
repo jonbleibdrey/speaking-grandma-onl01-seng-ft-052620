@@ -2,7 +2,8 @@
 
 def speak_to_grandma(string)
   if string == "I LOVE YOU GRANDMA!"
-    puts 
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif string == 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
